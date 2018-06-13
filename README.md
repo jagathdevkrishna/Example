@@ -18,8 +18,7 @@ sdgsbf
 <html> 
 <body>
   <h1> hi</h1>
-  
-  </div>
+  <div style="box-sizing: border-box;border: 2px solid;display:block;background-color:#E4EBF3;color:#ffffff;height:30px;align-content:center;font-size:medium;"> </div>
   </body>
 </html>
   
